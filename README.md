@@ -1,4 +1,6 @@
-# 使用
+本项目来源于 [LuoguPaintAutomaton](https://github.com/Enter-tainer/LuoguPaintAutomaton)，由于原作者不再维护故没有向其提出 `Pull Requests` 。
+
+## 使用
 
 请在 `cookies.txt` 中用以下格式存放 cookie
 
